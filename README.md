@@ -27,14 +27,14 @@
 
 ## 📦 Projects
 
-### 👟 Shoe Store Application
-Java desktop application for managing shoe sales with MySQL database.
+### 📱 Smart School Bus
+A smart bus management web application that combines route simulation functionality, using Google Maps API, ReactJS, Node.js, and MySQL.
 
 ### 💻 Laptop Store Website
 Website built with HTML, CSS, JavaScript using LocalStorage.
 
-### 📱 Phone Store Console App
-Java console application using Object-Oriented Programming.
+### 👟 Shoe Store Application
+Java desktop application for managing shoe sales with MySQL database.
 
 ---
 
